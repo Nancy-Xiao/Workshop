@@ -1,2 +1,3 @@
-# Workshop
-Practice github
+# My First Repository
+
+This is my first repository on GitHub!
